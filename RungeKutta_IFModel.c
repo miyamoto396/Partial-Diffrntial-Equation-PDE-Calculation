@@ -11,6 +11,7 @@ Integrate-and-fire(積分発火型)モデル
 
 #include <stdio.h>
 #include <stdlib.h>
+#include <time.h>
 #include <math.h>
 
 /*初期値*/
